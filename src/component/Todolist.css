@@ -1,0 +1,17 @@
+.page {
+    background: linear-gradient(135deg,rgb(0, 255, 81),#57548a);
+    height: 100vh;
+}
+
+.box{
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 10px;
+    margin-top: 60px;
+}
+.btn-1{
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+}
